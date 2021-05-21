@@ -1,1 +1,1 @@
-import { a } from "..";
+import { nestedVar1 } from "..";
