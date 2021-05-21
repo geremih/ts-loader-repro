@@ -2479,10 +2479,10 @@ to-regex@^3.0.1, to-regex@^3.0.2:
     regex-not "^1.0.2"
     safe-regex "^1.1.0"
 
-ts-loader@8.1.0:
-  version "8.1.0"
-  resolved "https://artifactory.palantir.build/artifactory/api/npm/all-npm/ts-loader/-/ts-loader-8.1.0.tgz#d6292487df279c7cc79b6d3b70bb9d31682b693e"
-  integrity sha1-1ikkh98nnHzHm207cLudMWgraT4=
+ts-loader@8.3.0:
+  version "8.3.0"
+  resolved "https://artifactory.palantir.build/artifactory/api/npm/all-npm/ts-loader/-/ts-loader-8.3.0.tgz#83360496d6f8004fab35825279132c93412edf33"
+  integrity sha1-gzYEltb4AE+rNYJSeRMsk0Eu3zM=
   dependencies:
     chalk "^4.1.0"
     enhanced-resolve "^4.0.0"
